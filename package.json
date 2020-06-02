@@ -1,10 +1,10 @@
 {
-  "name": "restapi_youtube",
+  "name": "node_eventsapi",
   "version": "1.0.0",
-  "description": "Youtube Tutorial",
+  "description": "Event data API for Node",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "author": "Me",
   "license": "ISC",
